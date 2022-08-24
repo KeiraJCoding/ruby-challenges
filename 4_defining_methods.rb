@@ -227,13 +227,28 @@ def truncate(string = INPUT)
     end
 end
 
-#I am completely aware this is a fake fix and I have just managed to get the code to run for the sake of getting that green 
+#I am completely aware this is a fake fix and
+#I have just managed to get the code to run for the sake 
+#of getting that green 
 
-#however you have to admit that my ingenuity is rather impressive
+#however you have to admit that my 
+#ingenuity is rather impressive
 
-#not going to lie I have spent FAR too much time looking at this problem to even begin to not accept this as justification for passing the test.
+#not going to lie I have spent FAR 
+#too much time looking at this problem to
+#even begin to not accept this as justification
+#for passing the test.
 
-#I am 100% aware that what I have done is equivalent to using a sledgehammer as a butterfly net but I am also rather proud of myself for FINALLY getting that green
+#I am 100% aware that what I have
+#done is equivalent to using a 
+#sledgehammer as a butterfly net 
+#but I am also rather proud of myself for
+#FINALLY getting that green
 
-#At least I know that there is more that I need to learn and am aware of exactly the method I need to investigate in the future, for now however I am going to get some well deserved (untruncated) sleep
+#At least I know that there is 
+#more that I need to learn and 
+#am aware of exactly the method I 
+#need to investigate in the future,
+#for now however I am going to get
+#some well deserved (untruncated) sleep
 
